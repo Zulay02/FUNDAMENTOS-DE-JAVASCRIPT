@@ -1,0 +1,5 @@
+﻿# Videos y audios grandes: GitHub no acepta archivos de mas de 100 MB
+*.mp4
+*.mov
+*.mp3
+node_modules/
